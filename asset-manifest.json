@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-ananca-navbar/static/css/main.e32f4424.css",
+    "main.js": "/ws101-ananca-navbar/static/js/main.66143f4f.js",
+    "index.html": "/ws101-ananca-navbar/index.html",
+    "main.e32f4424.css.map": "/ws101-ananca-navbar/static/css/main.e32f4424.css.map",
+    "main.66143f4f.js.map": "/ws101-ananca-navbar/static/js/main.66143f4f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e32f4424.css",
+    "static/js/main.66143f4f.js"
+  ]
+}
